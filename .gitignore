@@ -1,0 +1,13 @@
+# Ignore executables
+*.exe
+*.out
+
+# Ignore object files
+*.o
+*.obj
+
+# VS Code files
+.vscode/
+
+# Optional: ignore JSON (only if not needed)
+*.json
