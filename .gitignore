@@ -11,3 +11,7 @@
 
 # Optional: ignore JSON (only if not needed)
 *.json
+
+#Output files
+Output
+output 
